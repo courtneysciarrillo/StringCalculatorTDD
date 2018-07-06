@@ -1,0 +1,6 @@
+c:\users\wecancodeit\source\repos\StringCalculator\StringCalculator\bin\Debug\StringCalculator.dll
+c:\users\wecancodeit\source\repos\StringCalculator\StringCalculator\bin\Debug\StringCalculator.pdb
+c:\users\wecancodeit\source\repos\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\StringCalculator\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\StringCalculator\StringCalculator\obj\Debug\StringCalculator.dll
+c:\users\wecancodeit\source\repos\StringCalculator\StringCalculator\obj\Debug\StringCalculator.pdb
